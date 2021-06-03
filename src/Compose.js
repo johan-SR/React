@@ -63,7 +63,7 @@ class Fruits extends React.Component {
       return (
         <div>
             <div >
-                <div style = {{color: 'Red', fontSize:28}}>Ejercicio 11-Compose</div>
+                <div style = {{color: 'Red', fontSize:28}}>Ejercicio 11-Compose.</div>
                 <h1>Types of Food:</h1>
                 <Fruits />
                 <Vegetables />
